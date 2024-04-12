@@ -13,4 +13,4 @@ if (idd1 == idd2) {
 
     console.log(" A idade 1 é menor");
 
-}
+}//
