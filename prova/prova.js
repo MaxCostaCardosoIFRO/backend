@@ -12,6 +12,7 @@ while (continua == 1) {
     
     let lado = parseFloat(entradaDados.question("diga o valor do lado do seu quadrado: "));
     console.log("A área do seu quadrado é: " + lado ** lado)
+    
     5
     if (forma == 2) {
 
